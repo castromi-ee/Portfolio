@@ -1,0 +1,17 @@
+1) Your full name as given in the class list
+	- Michael Castro
+2) Your student ID
+	- 7943201471
+3) What you have done in the assignment
+	- In this assignment I have almost created a server and client connection to gather data from a server to client
+4) What your code files are and what each one does (please do not repeat the project description, just
+name your code files and briefly mention their purpose)
+	- I did not create any other code files other than what was asked of in the project description. 
+5) Any idiosyncrasies of your project, including under what conditions the project might fail, if any
+	- My file cannot establish a client to server connection on my computer. Ive tried serval things but could not get it to work. 
+6) Reused code: Did you use code from anywhere for your project? If not, state that. If so, specify
+what functions were reused and where they’re from (also include comments in the source code to identify reused sections).
+I used example code from geeks for geeks.org for client and  server connection
+https://www.geeksforgeeks.org/socket-programming-in-cpp/
+I also used my previous read file from the last lab buttweeked it a little.
+
